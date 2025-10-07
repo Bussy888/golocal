@@ -1,17 +1,12 @@
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import {
-  AppBar,
-  Toolbar,
   Typography,
   Container,
   Button,
   Box,
   Grid,
-  Paper,
-  Card,
-  CardContent,
-  Avatar,
+  Paper
 } from "@mui/material";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 import PeopleIcon from "@mui/icons-material/People";
